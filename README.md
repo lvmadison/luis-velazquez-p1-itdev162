@@ -1,4 +1,5 @@
 Project 1:
+
 For this project I decided to create a web API that stores contact information. Create, read, update, and delete operations can be done through a browser. Contacts are assigned an ID which is used to identify them within the database and drive the API CRUD operations. The database information, including any CRUD operations, are saved to a database which the developer can specify. The database integration uses the Entity Framework, while the ASP.NET 6.0 provides the front end of this web API. 
 
 
